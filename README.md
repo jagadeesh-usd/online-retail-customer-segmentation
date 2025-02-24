@@ -94,9 +94,10 @@ This project employs the following methods for customer segmentation:
 
 * **Data Manipulation:**  Data cleaning, handling missing values, feature scaling.
 * **Data Visualization:**  Interactive visualizations to explore customer behavior and present segmentation results.
-* **Machine Learning:**
+* **Cluster Analysis:**
     * RFM (Recency, Frequency, Monetary) analysis for initial customer behaviour.
     * K-Means clustering to group customers based on their RFM scores.
+    * DBSCAN.
 * **Inferential Statistics:** Descriptive statistics to characterize customer segments (e.g., purchase frequency, order value).
 
 ## Technologies
